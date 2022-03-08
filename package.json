@@ -1,0 +1,17 @@
+{
+  "name": "com.vaudin-games.framework",
+  "version": "1.0.0",
+  "displayName": "Vaudin Games Framework",
+  "description": "A library of componenets commonly used in Vaudin Games projects.",
+  "type": "library",
+  "unity": "2020.3",
+  "keywords": [
+    "tools",
+    "extensions"
+  ],
+  "author": {
+    "name": "Edward Vaudin",
+    "email": "officialxarvus@gmail.com",
+    "url": "https://edvaudin.github.io/"
+  }
+}
