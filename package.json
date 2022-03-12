@@ -1,6 +1,6 @@
 {
   "name": "com.vaudin-games.framework",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "displayName": "Vaudin Games Framework",
   "description": "A library of componenets commonly used in Vaudin Games projects.",
   "type": "library",
